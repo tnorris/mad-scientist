@@ -8,10 +8,82 @@
 $ jq '.modules[].plugin' *.vcv | sort | uniq
 ```
 
-"AudibleInstruments"
-"Befaco"
-"Core"
-"ESeries"
-"Fundamental"
-"RJModules"
-"VCV-PulseMatrix"
+## Module Summary
+```
+AS
+AudibleInstruments
+Befaco
+Core
+ESeries
+Fundamental
+JW-Modules
+RJModules
+VCV-PulseMatrix
+tnorris-BostonBrightonModules
+```
+
+## Module by Patch
+
+```
+Modules in midi_kwah.vcv
+AudibleInstruments
+Core
+ESeries
+Fundamental
+RJModules
+VCV-PulseMatrix
+
+Modules in scope_twisty.vcv
+AS
+Fundamental
+
+Modules in seq_homes.vcv
+AS
+AudibleInstruments
+Befaco
+Core
+Fundamental
+JW-Modules
+RJModules
+VCV-PulseMatrix
+tnorris-BostonBrightonModules
+
+Modules in seq_kicks.vcv
+AudibleInstruments
+Befaco
+Core
+Fundamental
+RJModules
+VCV-PulseMatrix
+
+Modules in seq_shifty-pulse-matrix.vcv
+AudibleInstruments
+Befaco
+Core
+Fundamental
+RJModules
+VCV-PulseMatrix
+
+Modules in seq_split-drums.vcv
+AudibleInstruments
+Befaco
+Core
+Fundamental
+RJModules
+VCV-PulseMatrix
+tnorris-BostonBrightonModules
+
+Modules in seq_untitled.vcv
+AudibleInstruments
+Befaco
+Core
+Fundamental
+RJModules
+
+Modules in seq_wubjams.vcv
+AudibleInstruments
+Befaco
+Core
+Fundamental
+RJModules
+```
